@@ -1,0 +1,31 @@
+*{
+    font-family: 'Arial', Helvetica, sans-serif;
+    margin:0;
+    padding:0;
+    box-sizing:border-box ;
+}
+
+body{
+    background: linear-gradient(#FF8837,#fffd90) ;
+}
+
+h1 {
+    color: #243056; 
+    font-weight:900;
+}
+
+p {
+    Color:#fff;
+    margin: 30px;
+    font-weight: 500;
+    font-size: large;
+}
+
+.table {
+    background-color: #fff;
+}
+
+img:hover{ transform: scale(0.5);
+    border-radius: 30px;
+    
+}
